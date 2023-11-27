@@ -1,0 +1,1 @@
+SELECT Income - Consumption AS [min] FROM bds, Mins ORDER BY min
